@@ -1,0 +1,13 @@
+{
+    "botToken": "Your_Bot_Token",
+    "logs_channel_id": " Your_Channel_Id",
+
+    "prefix": "*",
+    "command_name": "verify",
+    
+    "give_role": true,
+    "role_name": "Name_Role",
+
+    "mass_dm": 0,
+    "message": "You already get verify have fun"
+}
